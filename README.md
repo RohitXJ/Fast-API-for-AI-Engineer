@@ -45,13 +45,7 @@ Only what **real AI engineers actually use**.
 
 ## 🧰 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" height="40"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/docker-library/docs/3e1c2c7/docker/logo.png" height="40"/>
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40"/>
-</p>
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Core Tools Used**
 - 🐍 Python
