@@ -64,17 +64,17 @@ Only what **real AI engineers actually use**.
 ```bash
 Fast-API-for-AI-Engineer/
 │
-├── Chapter-01_FastAPI_Foundations/
-├── Chapter-02_Request_Response_Handling/
-├── Chapter-03_AI_Model_Inference_APIs/
-├── Chapter-04_Validation_and_Error_Handling/
-├── Chapter-05_Project_Structure_and_Routing/
-├── Chapter-06_Logging_and_Debugging/
-├── Chapter-07_Model_Versioning_and_Loading/
-├── Chapter-08_Production_API_Design/
-├── Chapter-09_API_Security_for_AI/
-├── Chapter-10_Deployment_and_Docker/
-├── Chapter-11_MLOps_Foundations/
-├── Chapter-12_Capstone_Project/
+├── Module 1/
+├── Module 2/
+├── Module 3/
+├── Module 4/
+├── Module 5/
+├── Module 6/
+├── Module 7/
+├── Module 8/
+├── Module 9/
+├── Module 10/
+├── Module 11/
+├── Module 12/
 ├── LICENSE
 └── README.md
